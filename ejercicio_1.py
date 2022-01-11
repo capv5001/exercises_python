@@ -1,6 +1,5 @@
-
 velocidad = int(input('ingrese la velocidad del vehículo: '))
-tiempo = int(input('ingrese el tiempo (este estará determinado en segundos): '))
+tiempo = int(input('ingrese el tiem}po (este estará determinado en segundos): '))
 
 distancia = velocidad/tiempo
 
